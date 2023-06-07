@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I'm a mechanical engineering and physics graduate, who loves a good challenge. I enjoy building applications, learning about new technologies, and working with data.
 
-My primary interests include:
+My interests include:
 
 -   Data analytics and data engineering
 -   Web development (full stack)
