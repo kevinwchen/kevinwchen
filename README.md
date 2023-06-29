@@ -9,7 +9,6 @@ My interests include:
 -   Data science and data engineering
 -   Web development (full stack)
 -   Cloud platforms
--   DevOps
 
 Some projects I've worked on previously:
 - [An unbeatable tic-tac-toe game](https://github.com/kevinwchen/odin-tic-tac-toe)
