@@ -6,7 +6,7 @@ I'm a mechanical engineering and physics graduate, who loves a good challenge. I
 
 My interests include:
 
--   Data analytics and data engineering
+-   Data science and data engineering
 -   Web development (full stack)
 -   Cloud platforms
 -   DevOps
@@ -20,5 +20,5 @@ Some projects I've worked on previously:
 
 Things I'm currently working on:
 - [A data pipeline for processing real-estate listing information](https://github.com/kevinwchen/realestate-data-project)
-- A CRM application for managing client interactions
+- [A CRM application for managing client interactions](https://github.com/kevinwchen/realestate-crm)
 - My personal portfolio page
