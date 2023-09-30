@@ -6,7 +6,7 @@ I'm a mechanical engineering and physics graduate, who loves a good challenge. I
 
 My interests include:
 
--   Data science and data engineering
+-   Data science and machine learning
 -   Web development (full stack)
 -   Cloud platforms
 
