@@ -2,22 +2,17 @@
 
 Welcome to my GitHub profile!
 
-I'm a mechanical engineering and physics graduate, who loves a good challenge. I enjoy building applications, learning about new technologies, and working with data.
+I enjoy working with data, learning new technologies, and building products to solve challenging problems.
 
 My interests include:
-
+-   Data engineering
 -   Data science and machine learning
--   Web development (full stack)
--   Cloud platforms
+-   Web development
 
-Some projects I've worked on previously:
+Some of my projects:
 - [An unbeatable tic-tac-toe game](https://github.com/kevinwchen/odin-tic-tac-toe)
 - [A webpage calculator](https://github.com/kevinwchen/odin-calculator)
-- [A machine-learning book recommendation tool](https://github.com/kevinwchen/book-recommender)
-- [A language translator API](https://github.com/kevinwchen/translation-api)
+- [A language translator API (Transformer)](https://github.com/kevinwchen/translation-api)
 - [A cryptocurrency trading bot](https://github.com/kevinwchen/binance-trading-bot)
-
-Things I'm currently working on:
-- [A data pipeline for processing real-estate listing information](https://github.com/kevinwchen/realestate-data-project)
-- [A CRM application for managing client interactions](https://github.com/kevinwchen/realestate-crm)
-- My personal portfolio page
+- [A machine-learning book recommendation tool](https://github.com/kevinwchen/book-recommender)
+- [An image classifier for playing cards (PyTorch Neural Network)](https://github.com/kevinwchen/playing-card-classifier)
